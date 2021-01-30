@@ -1,6 +1,6 @@
-# This Repo contains all my Assignments
+# Certified Data Science Assosiate Course (CDSA)
 
-## for Certified Data Science Assosiate Course (CDSA)
+## This Repo contains all my Assignments
 ### This course is provided by Eplsilon AI Institute 
 
 **The Content of this course :**
